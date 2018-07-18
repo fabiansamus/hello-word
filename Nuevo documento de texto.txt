@@ -1,0 +1,21 @@
+hello
+ este es para la entrega de seguridad
+
+
+
+julian 
+
+
+tema de exposicion-
+	25 de julio
+	grupo 1: foot printing o reconocimiento
+	practica: zenmap aplicacion
+	1 agosto
+	grupo 2: scaning y enumeracion
+	practica: 
+	8 agosto
+	grupo 3: sniffer e ingenieria social
+	practica:
+	8 agosto
+	grupo 4:denegacion de servicio y mobil divice security
+	practica: 
